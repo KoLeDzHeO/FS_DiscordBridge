@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modDesc descVersion="62">
+  <author>KoLeDzHeO</author>
+  <version>1.0.0.0</version>
+  <title>FS Discord Bridge</title>
+  <description>
+    Simple mod to connect Discord with Farming Simulator chat (via socket or file).
+  </description>
+
+  <multiplayer supported="true"/>
+
+  <extraSourceFiles>
+    <sourceFile filename="FSDiscordBridge.lua"/>
+  </extraSourceFiles>
+
+  <l10n>
+    <text name="mod_name">FS Discord Bridge</text>
+  </l10n>
+</modDesc>
